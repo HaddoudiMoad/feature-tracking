@@ -25,7 +25,7 @@ The code is divided into two main functions:
 Please replace `'C:/00/image_0/{0:06d}.png'` with the path to your own image sequence.
 ## Result
 this image shows the `dense` tracked features
-![results](resut.png)
+![result](result.png)
 
 ## Note
 
