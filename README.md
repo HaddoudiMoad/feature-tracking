@@ -23,6 +23,9 @@ The code is divided into two main functions:
 - `main()`: This function reads in images from a specified path, calls the `track_feature` function on each pair of consecutive images, and displays the result.
 
 Please replace `'C:/00/image_0/{0:06d}.png'` with the path to your own image sequence.
+## Result
+this image shows the `dense` tracked features
+![results](resuts.png)
 
 ## Note
 
