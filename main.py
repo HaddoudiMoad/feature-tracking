@@ -48,7 +48,7 @@ def track_feature(curr_img, prev_img):
 
 def main():
     PATH = 'C:/00/image_0/{0:06d}.png'
-    # PATH = "C:/Users/le/OneDrive/Documents/S-d-C/videos/main_vid.mp4"
+    # PATH = "vid.mp4" # or camera id
     # cap = cv2.VideoCapture(PATH)
 
     # _, prev = cap.read()
